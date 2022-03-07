@@ -1,2 +1,4 @@
-a {color: green;}
-body,main{display: flex;}
+a :hover
+{color:green;}
+body{display:flex;
+     flex-direction:column;}
